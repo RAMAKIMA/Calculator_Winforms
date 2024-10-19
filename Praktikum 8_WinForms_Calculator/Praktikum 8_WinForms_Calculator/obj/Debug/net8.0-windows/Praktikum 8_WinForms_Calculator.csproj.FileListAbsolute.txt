@@ -1,0 +1,17 @@
+C:\VStudio\Praktikum 8_WinForms_Calculator\Praktikum 8_WinForms_Calculator\bin\Debug\net8.0-windows\Praktikum 8_WinForms_Calculator.exe
+C:\VStudio\Praktikum 8_WinForms_Calculator\Praktikum 8_WinForms_Calculator\bin\Debug\net8.0-windows\Praktikum 8_WinForms_Calculator.deps.json
+C:\VStudio\Praktikum 8_WinForms_Calculator\Praktikum 8_WinForms_Calculator\bin\Debug\net8.0-windows\Praktikum 8_WinForms_Calculator.runtimeconfig.json
+C:\VStudio\Praktikum 8_WinForms_Calculator\Praktikum 8_WinForms_Calculator\bin\Debug\net8.0-windows\Praktikum 8_WinForms_Calculator.dll
+C:\VStudio\Praktikum 8_WinForms_Calculator\Praktikum 8_WinForms_Calculator\bin\Debug\net8.0-windows\Praktikum 8_WinForms_Calculator.pdb
+C:\VStudio\Praktikum 8_WinForms_Calculator\Praktikum 8_WinForms_Calculator\obj\Debug\net8.0-windows\Praktikum_8_WinForms_Calculator.Form1.resources
+C:\VStudio\Praktikum 8_WinForms_Calculator\Praktikum 8_WinForms_Calculator\obj\Debug\net8.0-windows\Praktikum_8_WinForms_Calculator.Form2.resources
+C:\VStudio\Praktikum 8_WinForms_Calculator\Praktikum 8_WinForms_Calculator\obj\Debug\net8.0-windows\Praktikum 8_WinForms_Calculator.csproj.GenerateResource.cache
+C:\VStudio\Praktikum 8_WinForms_Calculator\Praktikum 8_WinForms_Calculator\obj\Debug\net8.0-windows\Praktikum 8_WinForms_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\VStudio\Praktikum 8_WinForms_Calculator\Praktikum 8_WinForms_Calculator\obj\Debug\net8.0-windows\Praktikum 8_WinForms_Calculator.AssemblyInfoInputs.cache
+C:\VStudio\Praktikum 8_WinForms_Calculator\Praktikum 8_WinForms_Calculator\obj\Debug\net8.0-windows\Praktikum 8_WinForms_Calculator.AssemblyInfo.cs
+C:\VStudio\Praktikum 8_WinForms_Calculator\Praktikum 8_WinForms_Calculator\obj\Debug\net8.0-windows\Praktikum 8_WinForms_Calculator.csproj.CoreCompileInputs.cache
+C:\VStudio\Praktikum 8_WinForms_Calculator\Praktikum 8_WinForms_Calculator\obj\Debug\net8.0-windows\Praktikum 8_WinForms_Calculator.dll
+C:\VStudio\Praktikum 8_WinForms_Calculator\Praktikum 8_WinForms_Calculator\obj\Debug\net8.0-windows\refint\Praktikum 8_WinForms_Calculator.dll
+C:\VStudio\Praktikum 8_WinForms_Calculator\Praktikum 8_WinForms_Calculator\obj\Debug\net8.0-windows\Praktikum 8_WinForms_Calculator.pdb
+C:\VStudio\Praktikum 8_WinForms_Calculator\Praktikum 8_WinForms_Calculator\obj\Debug\net8.0-windows\Praktikum 8_WinForms_Calculator.genruntimeconfig.cache
+C:\VStudio\Praktikum 8_WinForms_Calculator\Praktikum 8_WinForms_Calculator\obj\Debug\net8.0-windows\ref\Praktikum 8_WinForms_Calculator.dll
